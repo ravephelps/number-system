@@ -1,0 +1,12 @@
+C:\Users\ravid\Desktop\PLM\3rd year 1st sem\ELEC Electives Lab\Finals Elective Lab\Finals Elective Lab\bin\Debug\Finals Elective Lab.exe.config
+C:\Users\ravid\Desktop\PLM\3rd year 1st sem\ELEC Electives Lab\Finals Elective Lab\Finals Elective Lab\bin\Debug\Finals Elective Lab.exe
+C:\Users\ravid\Desktop\PLM\3rd year 1st sem\ELEC Electives Lab\Finals Elective Lab\Finals Elective Lab\bin\Debug\Finals Elective Lab.pdb
+C:\Users\ravid\Desktop\PLM\3rd year 1st sem\ELEC Electives Lab\Finals Elective Lab\Finals Elective Lab\obj\Debug\Finals Elective Lab.csprojAssemblyReference.cache
+C:\Users\ravid\Desktop\PLM\3rd year 1st sem\ELEC Electives Lab\Finals Elective Lab\Finals Elective Lab\obj\Debug\Finals_Elective_Lab.Binaryinput.resources
+C:\Users\ravid\Desktop\PLM\3rd year 1st sem\ELEC Electives Lab\Finals Elective Lab\Finals Elective Lab\obj\Debug\Finals_Elective_Lab.Form1.resources
+C:\Users\ravid\Desktop\PLM\3rd year 1st sem\ELEC Electives Lab\Finals Elective Lab\Finals Elective Lab\obj\Debug\Finals_Elective_Lab.Form2.resources
+C:\Users\ravid\Desktop\PLM\3rd year 1st sem\ELEC Electives Lab\Finals Elective Lab\Finals Elective Lab\obj\Debug\Finals_Elective_Lab.Properties.Resources.resources
+C:\Users\ravid\Desktop\PLM\3rd year 1st sem\ELEC Electives Lab\Finals Elective Lab\Finals Elective Lab\obj\Debug\Finals Elective Lab.csproj.GenerateResource.cache
+C:\Users\ravid\Desktop\PLM\3rd year 1st sem\ELEC Electives Lab\Finals Elective Lab\Finals Elective Lab\obj\Debug\Finals Elective Lab.csproj.CoreCompileInputs.cache
+C:\Users\ravid\Desktop\PLM\3rd year 1st sem\ELEC Electives Lab\Finals Elective Lab\Finals Elective Lab\obj\Debug\Finals Elective Lab.exe
+C:\Users\ravid\Desktop\PLM\3rd year 1st sem\ELEC Electives Lab\Finals Elective Lab\Finals Elective Lab\obj\Debug\Finals Elective Lab.pdb
